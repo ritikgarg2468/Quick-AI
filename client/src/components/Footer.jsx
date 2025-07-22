@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
     </div>
     <p className="pt-4 text-center text-xs md:text-sm pb-5">
-        Made with ❤️ by ( Ritik Garg ) <br />
+        Made with ❤️ by ( Ritik Garg ) +91 9817861762. <br />
         Copyright 2025 © GreatStack. All Right Reserved.
     </p>
 </footer>
